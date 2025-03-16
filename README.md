@@ -13,16 +13,17 @@ A simple and efficient web-based expense tracker that allows users to add, view,
 
 ## Demo Screenshot
 
-<img width="1440" alt="Screenshot 2025-03-16 at 3 53 58 PM" src="https://github.com/user-attachments/assets/98e70ccd-b87f-4534-9a7c-e5a81d17d3de" />
 <img width="1440" alt="Screenshot 2025-03-16 at 3 53 41 PM" src="https://github.com/user-attachments/assets/cd1edae8-643e-4661-8b17-e218da6574e3" />
 <img width="1440" alt="Screenshot 2025-03-16 at 3 53 51 PM" src="https://github.com/user-attachments/assets/531c38aa-f603-45f5-afda-822a3031479b" />
+<img width="1440" alt="Screenshot 2025-03-16 at 3 53 58 PM" src="https://github.com/user-attachments/assets/98e70ccd-b87f-4534-9a7c-e5a81d17d3de" />
 
 
 ## Technologies Used
 
-- **HTML**, **CSS**, **JavaScript** for the front-end
-- **Local Storage** for data persistence
+- **HTML**, **CSS**, **JavaScript**, **React.js** for the front-end
+- **MongoDB Atlas** for data persistence
 - **JavaScript Functions** for sorting and filtering expenses
+- **Node.js** for the backend-end/server side
 
 
 ## Usage
